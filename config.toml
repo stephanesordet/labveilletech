@@ -1,5 +1,5 @@
 baseURL = "https://stephanesordet.github.io/labveilletech"
-title   = "Hello Friend NG"
+title   = "Stéphane Sordet"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -61,7 +61,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Hello Friend NG"
+  homeSubtitle = ""
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -184,15 +184,10 @@ disableHugoGeneratorInject = false
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
-  [languages.fr]
-    subtitle  = "Hello Friend NG Theme"
-    weight    = 2
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-
 [menu]
   [[menu.main]]
-    identifier = "about"
-    name       = "About"
+    identifier = "a propos"
+    name       = "À propos"
     url        = "about/"
   [[menu.main]]
     identifier = "posts"

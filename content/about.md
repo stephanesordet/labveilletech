@@ -1,19 +1,32 @@
 +++
-title = "A propos"
+title = "À propos"
 date = "2022-12-12"
 aliases = ["about-us","about-hugo","contact"]
 [ author ]
   name = "Hugo Authors"
 +++
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+Bonjour, je m'appelle Stéphane Sordet. Je suis actuellement en dernière année d'études en Ingénieur des Médias.
 
-It makes use of a variety of open source projects including:
+Ce petit blog a été créé dans le cadre d'un cours de veille technologique. Il me permet d'échanger sur les métiers du management dans le digital qui m'intéressent particulièrement, notamment en tant que product manager/owner.
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Je suis passionné par les nouvelles technologies et les tendances du marché, et j'espère partager mes découvertes et mes réflexions avec vous à travers ce blog.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Merci de votre visite !
+
+
+## Mon ikigai 
+
+![Mon ikigai](../img/Ikigai.png)
+
+## Ma fiche de domaine 
+
+### Product manager/owner 
+
+**Domaine** : développement sites web, applications,  refonte, branding 
+
+**Mots-clés** : stratégie digitale, projets digitaux, leadership, gestion et management 
+
+**Sous-domaines** : prise de parole, présentation, conversion et “manipulation”
+
+**Pourquoi ?** : j’aime travailler en groupe et prendre des décisions. Discuter et argumenter pour arriver au meilleur résultat. Je veux pouvoir compter sur les gens et inverssement. 
