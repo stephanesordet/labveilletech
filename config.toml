@@ -150,6 +150,8 @@ disableHugoGeneratorInject = false
   # [params.commento]
   #   url = ""
 
+  lastModDisplay = "Modified:"
+
   # Uncomment this if you want a portrait on your start page
   #
   # [params.portrait]

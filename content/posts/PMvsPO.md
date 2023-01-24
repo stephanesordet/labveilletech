@@ -1,6 +1,6 @@
 +++
 categories = ["Hugo"]
-date = "2014-09-28"
+date = "2023-01-10"
 description = "Product manager et product owner"
 featured = "pic01.jpg"
 featuredalt = ""

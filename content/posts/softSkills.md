@@ -1,6 +1,6 @@
 +++
 categories = ["Hugo"]
-date = "2014-09-28"
+date = "2023-01-10"
 description = "Soft skills et product management"
 featuredalt = ""
 featuredpath = "date"
